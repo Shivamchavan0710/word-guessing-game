@@ -1,0 +1,11 @@
+# Optional extra words. Format:  Category:word
+# Loaded automatically if this file is in the folder you run the game from.
+Space:planet
+Space:galaxy
+Space:comet
+Space:orbit
+Space:rocket
+Space:asteroid
+Space:universe
+Space:telescope
+Space:astronaut
